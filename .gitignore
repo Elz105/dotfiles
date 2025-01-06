@@ -1,0 +1,12 @@
+# Ignore system and hidden files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Ignore local configuration
+local.conf
+*.local
+
+# Ignore sensitive information
+secrets.yml
